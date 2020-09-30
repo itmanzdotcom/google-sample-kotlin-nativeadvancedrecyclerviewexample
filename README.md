@@ -13,6 +13,12 @@ uses dishes from a menu), but no ads. Over the course of the codelab, you’ll
 add code to handle two new types of items (app install and content ads),
 and display them correctly.
 
+Samples
+--------------
+<img src="https://github.com/pixelboxx/google-sample-kotlin-nativeadvancedrecyclerviewexample/blob/master/screen/demo2.jpg" width="1024">
+
+<img src="https://github.com/pixelboxx/google-sample-kotlin-nativeadvancedrecyclerviewexample/blob/master/screen/demo1.jpg" width="1024">
+
 Documentation
 --------------
 For additional documentation on rewarded video, refer to the Native Ads Advanced 
